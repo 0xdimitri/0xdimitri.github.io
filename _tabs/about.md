@@ -6,7 +6,7 @@ order: 4
 
 Heyy, Shibasis here
 
-I'm transitioning into offensive security and penetration testing. This blog is where I document that journey - HTB machine writeups, CTF solutions, research notes, and whatever else I find worth writing down.
+I'm a college student interested and exploring offensive security and penetration testing. This blog is where I document that journey - HTB machine writeups, CTF solutions, research notes, and whatever else I find worth writing down.
 
 ## What I Do
 
