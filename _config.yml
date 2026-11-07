@@ -25,6 +25,8 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://shibasis-ls.github.io"
 
+# Favicon configuration
+
 github:
   username: shibasis-ls # change to your GitHub username
 
@@ -42,7 +44,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/shibasis-ls
-    - https://twitter.com/shibasis_ # change to your Twitter homepage
+    - https://www.linkedin.com/in/shibasis-choudhury-b5a384312 # change to your Twitter homepage
     #-   change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
