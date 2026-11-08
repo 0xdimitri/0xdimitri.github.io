@@ -5,15 +5,7 @@
     <p class="mb-0">
       © {{ 'now' | date: '%Y' }}
       <a href="{{ site.social.links[0] }}">{{ site.author }}</a>.
-      {% if site.data.locales[include.lang].copyright.brief %}
-        <span
-          data-bs-toggle="tooltip"
-          data-bs-placement="top"
-          title="{{ site.data.locales[include.lang].copyright.verbose }}"
-        >
-          {{ site.data.locales[include.lang].copyright.brief }}
-        </span>
-      {% endif %}
+      All rights reserved.
     </p>
   </div>
 
