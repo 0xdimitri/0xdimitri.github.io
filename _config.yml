@@ -135,7 +135,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: shibasis-ls/shibasis-ls.github.io # <gh-username>/<repo>
+    repo: 0xdimitri/0xdimitri.github.io # <gh-username>/<repo>
     repo_id: R_kgDOVmJJgw
     category: General
     category_id: DIC_kwDOVmJJg84DKnsV
