@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Heyy, Shibasis here
+Heyy, 0xdimitri here
 
 I'm a college student interested and exploring offensive security and penetration testing. This blog is where I document that journey - HTB machine writeups, CTF solutions, research notes, and whatever else I find worth writing down.
 
@@ -20,5 +20,4 @@ Writeups go up after machines retire. Notes and findings go up when they're read
 If something here helped you, good. If you want to talk shop, drop a comment or find me on GitHub/LinkedIn.
 
 ## Links
-- GitHub: [shibasis-ls](https://github.com/shibasis-ls)
-- LinkedIn: [shibasis choudhury](https://www.linkedin.com/in/shibasis-choudhury-b5a384312)
+- GitHub: [0xdimitri](https://github.com/0xdimitri)
