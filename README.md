@@ -1,4 +1,4 @@
-# [shibasis-ls.github.io](https://shibasis-ls.github.io)
+# [0xdimitri.github.io](https://0xdimitri.github.io)
 
 Personal blog where I post CTF writeups, security research, and findings.
 
@@ -9,4 +9,4 @@ Built with Jekyll + Chirpy. Posts go up after machines retire or when I have som
 - GitHub Pages
 
 ## Contact
-- GitHub: [@shibasis-ls](https://github.com/shibasis-ls)
+- GitHub: [0xdimitri](https://github.com/0xdimitri)
