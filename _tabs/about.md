@@ -20,4 +20,4 @@ Writeups go up after machines retire. Notes and findings go up when they're read
 If something here helped you, good. If you want to talk shop, drop a comment or find me on GitHub/LinkedIn.
 
 ## Links
-- GitHub: [0xdimitri](https://github.com/0xdimitri)
+- GitHub: [0xdimitri](https://github.com/0xdimitri){:target="_blank" rel="noopener"}
